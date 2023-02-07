@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-family: ocr-a-std, monospace; font-weight: 400; font-style: normal; height: 100vh; background: #191919; color: #fff; font-weight: 100;}
+h1,h2,h3,h4,h5{font-weight: 400;}
+.nav a{color:#aaa;}
+.nav a:hover,.nav a:focus, .nav a.active{color:#eee;}
+section{height: 100vh;}
