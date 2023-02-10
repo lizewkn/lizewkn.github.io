@@ -13,6 +13,7 @@ import Introduction  from './components/Introduction.vue'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/skills">Skills</RouterLink>
       </nav>
     </div>
   </header>
