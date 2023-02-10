@@ -1,9 +1,9 @@
 <script setup>
-import About from '../components/About.vue'
+import introduction from '../components/Introduction.vue'
 </script>
 
 <template>
   <main>
-    <About />
+    <introduction/>
   </main>
 </template>
