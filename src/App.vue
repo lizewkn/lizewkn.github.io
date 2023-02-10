@@ -1,6 +1,5 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import Introduction from './components/Introduction.vue'
 </script>
 <template>
   <header>
@@ -25,6 +24,9 @@ import Introduction from './components/Introduction.vue'
         <li class="nav-item">
     <RouterLink class="nav-link" to="/skills">Skills</RouterLink>
         </li>
+        <li class="nav-item">
+    <RouterLink class="nav-link" to="/portfolio">Portfolio</RouterLink>
+        </li>
       </ul>
     </div>
   </div>
@@ -33,7 +35,6 @@ import Introduction from './components/Introduction.vue'
       </div>
       <div class="row">
         <div class="col">
-      <Introduction intro="You did it!" />
   <RouterView />
         </div>
       </div>
