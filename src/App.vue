@@ -16,7 +16,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-    <RouterLink class="nav-link" to="/">Home</RouterLink>
+    <RouterLink class="nav-link" to="/" active-class = "_active">Home</RouterLink>
         </li>
         <li class="nav-item">
     <RouterLink class="nav-link" to="/about">About</RouterLink>
@@ -35,12 +35,15 @@ import { RouterLink, RouterView } from 'vue-router'
       </div>
       <div class="row">
         <div class="col">
-  <RouterView />
+  <router-view v-slot="{ Component }">
+    <transition name="fade" mode="default">
+      <component :is="Component" />
+    </transition>
+  </router-view>
         </div>
       </div>
     </div>
 
 </header>
-
 </template>
 

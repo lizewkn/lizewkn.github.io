@@ -1,7 +1,6 @@
 <script setup>
 import PortfolioItem from './Portfolio.vue'
 </script>
-
 <template>
   <main>
     <p>About myself qualification experience and training: I have a BS in Engineering from the University of Colorado Boulder, where last year I received my MS degree. With this background as well i believe I will enjoy more technical work with engineers such companies like Boeing or General Motors which make highly accurate cars that use many sensors to improve efficiency and safety.
