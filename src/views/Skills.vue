@@ -1,15 +1,43 @@
 <template>
-  <div class="skills">
-    <h1>This is an skills page</h1>
+  <div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-4 col-md-6 col-sm-12 text-center">
+  <Pie :data="data" :options="options" />
+</div>
+</div>
   </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .skills {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
+<script>
+import { Chart as ChartJS, ArcElement, Tooltip, Legend} from 'chart.js'
+import { Pie } from 'vue-chartjs'
+
+ChartJS.register(ArcElement, Tooltip, Legend)
+
+export default {
+  name: 'SkillsChart',
+  components: { Pie },
+  data() {
+    return {
+      data: {
+        labels: ['Developer', 'Designer'],
+        datasets: [ 
+    {
+      backgroundColor: ['rgb(0, 120, 0)', '#555'],
+      data: [60, 40],
+      borderColor:['#191919','#191919']
+    }]
+      },
+      options: {
+        responsive: true,
+  maintainAspectRatio: true,
+        plugins: {
+  legend: {
+        display: false
+    }
+  }
+      }
+    }
   }
 }
-</style>
+</script>

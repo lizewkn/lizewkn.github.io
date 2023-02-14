@@ -27,13 +27,16 @@ import { RouterLink, RouterView } from 'vue-router'
         <li class="nav-item">
     <RouterLink class="nav-link" to="/portfolio">Portfolio</RouterLink>
         </li>
+        <li class="nav-item">
+    <RouterLink class="nav-link" to="/contact">Contact</RouterLink>
+        </li>
       </ul>
     </div>
   </div>
 </nav>
         </div>
       </div>
-      <div class="row">
+      <div class="row py-4">
         <div class="col">
   <router-view v-slot="{ Component }">
     <transition name="fade" mode="default">
@@ -42,6 +45,12 @@ import { RouterLink, RouterView } from 'vue-router'
   </router-view>
         </div>
       </div>
+      <footer>
+      <div class="row">
+        <div class="col">
+          <i class="bi bi-envelope-at-fill" color="#ccc"></i>
+        </div>
+      </div></footer>
     </div>
 
 </header>
