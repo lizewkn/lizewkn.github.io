@@ -1,4 +1,6 @@
-<!-- <script setup>
+<script setup>
+import PortfolioItem from '../components/PortfolioItem.vue'
+</script><!-- <script setup>
 import PortfolioItem from '../components/PortfolioItem.vue'
 import DocumentationIcon from '../components/icons/IconDocumentation.vue'
 import ToolingIcon from '../components/icons/IconTooling.vue'
@@ -86,30 +88,41 @@ import SupportIcon from '../components/icons/IconSupport.vue'
 </template> -->
 
 <template>
-  <div class="row">
+<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-<div class="card">
+<div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
+      <div class="card-footer">
+        <small>Last updated 3 mins ago</small>
+      </div>
 </div> 
-  </div> 
+</div> 
   <div class="col">
-<div class="card">
+<div class="card border-0">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
+      <div class="card-footer">
+        <small>Last updated 3 mins ago</small>
+      </div>
 </div> 
-  </div> 
+</div> 
   <div class="col">
-<div class="card">
+<div class="card border-0">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
+      <div class="card-footer">
+        <small>Last updated 3 mins ago</small>
+      </div>
+</div> 
 </div> 
   </div> 
-</div>
+  <PortfolioItem>
+    </PortfolioItem>
 </template>

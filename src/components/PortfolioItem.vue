@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="item">
     <i>
       <slot name="icon"></slot>
@@ -83,3 +83,20 @@ h3 {
   }
 }
 </style>
+ -->
+
+ <template>
+  <div class="modal fade" id="item1" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item1Label" aria-hidden="true">
+     <div class="modal-dialog modal-dialog-centered modal-xl border-0">
+    <div class="modal-content">
+      <div class="modal-header border-0">
+        <h1 class="modal-title fs-5" id="item1Label">Modal title</h1>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+    </div>
+</div>
+</div>
+ </template>
