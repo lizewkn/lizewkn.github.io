@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import PortfolioItem from '../components/PortfolioItem.vue'
 import DocumentationIcon from '../components/icons/IconDocumentation.vue'
 import ToolingIcon from '../components/icons/IconTooling.vue'
@@ -83,4 +83,33 @@ import SupportIcon from '../components/icons/IconSupport.vue'
     us by
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </PortfolioItem>
+</template> -->
+
+<template>
+  <div class="row">
+  <div class="col">
+<div class="card">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div> 
+  </div> 
+  <div class="col">
+<div class="card">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div> 
+  </div> 
+  <div class="col">
+<div class="card">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div> 
+  </div> 
+</div>
 </template>
