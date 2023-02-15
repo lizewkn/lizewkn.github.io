@@ -1,15 +1,15 @@
 <template>
-  <div class="container-fluid">
-  <div class="row justify-content-center">
-    <div class="col-4 col-md-6 col-sm-12 text-center">
-  <Pie :data="data" :options="options" />
-</div>
-</div>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-4 col-md-6 col-sm-12 text-center">
+        <Pie :data="data" :options="options" />
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
-import { Chart as ChartJS, ArcElement, Tooltip, Legend} from 'chart.js'
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js'
 import { Pie } from 'vue-chartjs'
 
 ChartJS.register(ArcElement, Tooltip, Legend)
@@ -21,21 +21,21 @@ export default {
     return {
       data: {
         labels: ['Developer', 'Designer'],
-        datasets: [ 
-    {
-      backgroundColor: ['rgb(0, 120, 0)', '#555'],
-      data: [60, 40],
-      borderColor:['#191919','#191919']
-    }]
+        datasets: [
+          {
+            backgroundColor: ['rgb(0, 120, 0)', '#555'],
+            data: [60, 40],
+            borderColor: ['#191919', '#191919']
+          }]
       },
       options: {
         responsive: true,
-  maintainAspectRatio: true,
+        maintainAspectRatio: true,
         plugins: {
-  legend: {
-        display: false
-    }
-  }
+          legend: {
+            display: false
+          }
+        }
       }
     }
   }
