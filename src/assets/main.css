@@ -1,3 +1,4 @@
 @import './base.css';
 .card{background-color:transparent;}
 .modal-content{background-color: transparent;}
+footer svg{fill:#ccc;}

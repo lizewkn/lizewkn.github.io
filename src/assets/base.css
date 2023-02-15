@@ -207,3 +207,5 @@ a,
     bottom: .5rem;
     border: .5px solid #666;}
     .nav-link:focus, .nav-link:hover{color: rgb(0, 255, 0);}
+
+    footer{position:absolute; bottom: -.2rem; right: 1.25rem; background-color: #191919; padding:0 .25rem;}

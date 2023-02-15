@@ -88,41 +88,60 @@ import SupportIcon from '../components/icons/IconSupport.vue'
 </template> -->
 
 <template>
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-<div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-      <div class="card-footer">
-        <small>Last updated 3 mins ago</small>
+  <div class="row row-cols-1 row-cols-md-4 g-4">
+    <div class="col">
+      <div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
+        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+        <div class="card-footer">
+          <small>#Desgin</small>
+          <small>#Coding</small>
+        </div>
       </div>
-</div> 
-</div> 
-  <div class="col">
-<div class="card border-0">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-      <div class="card-footer">
-        <small>Last updated 3 mins ago</small>
+    </div>
+    <div class="col">
+      <div class="card border-0">
+        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+        <div class="card-footer">
+          <small>#Desgin</small>
+          <small>#Coding</small>
+        </div>
       </div>
-</div> 
-</div> 
-  <div class="col">
-<div class="card border-0">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-      <div class="card-footer">
-        <small>Last updated 3 mins ago</small>
+    </div>
+    <div class="col">
+      <div class="card border-0">
+        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+        <div class="card-footer">
+          <small>#Desgin</small>
+          <small>#Coding</small>
+        </div>
       </div>
-</div> 
-</div> 
-  </div> 
+    </div>
+    <div class="col">
+      <div class="card border-0">
+        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+        <div class="card-footer">
+          <small>#Desgin</small>
+          <small>#Coding</small>
+        </div>
+      </div>
+    </div>
+  </div>
   <PortfolioItem>
-    </PortfolioItem>
+  </PortfolioItem>
 </template>
