@@ -109,6 +109,9 @@ h3 {
   <p>
     And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
   </p>
+  <p>
+          <small>#Desgin</small>
+          <small>#Coding</small></p>
 </div>
         </div>
       </div>
