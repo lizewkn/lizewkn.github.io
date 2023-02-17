@@ -19,26 +19,23 @@ import { RouterLink, RouterView } from 'vue-router'
               <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <RouterLink class="nav-link" to="/" active-class="_active">Home</RouterLink>
+                    <RouterLink class="nav-link"  :to="{ name: 'about' }" active-class="active">About</RouterLink>
                   </li>
                   <li class="nav-item">
-                    <RouterLink class="nav-link" to="/about">About</RouterLink>
+                    <RouterLink class="nav-link"  :to="{ name: 'skills' }" active-class="active">Skills</RouterLink>
                   </li>
                   <li class="nav-item">
-                    <RouterLink class="nav-link" to="/skills">Skills</RouterLink>
+                    <RouterLink class="nav-link"  :to="{ name: 'portfolio' }" active-class="active">Portfolio</RouterLink>
                   </li>
                   <li class="nav-item">
-                    <RouterLink class="nav-link" to="/portfolio">Portfolio</RouterLink>
-                  </li>
-                  <li class="nav-item">
-                    <RouterLink class="nav-link" to="/contact">Contact</RouterLink>
+                    <RouterLink class="nav-link"  :to="{ name: 'contact' }" active-class="active">Contact</RouterLink>
                   </li>
                 </ul>
               </div>
             </nav>
           </div>
         </div>
-        <div class="row">
+        <div class="row d-flex align-content-center">
           <div class="col">
             <router-view v-slot="{ Component }">
               <transition name="fade" mode="default">
