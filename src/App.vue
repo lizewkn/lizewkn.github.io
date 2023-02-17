@@ -1,14 +1,15 @@
 <script setup>
+
+
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 <template>
   <header>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col">
 
-          <nav class="navbar navbar-expand-lg">
-            <div class="container-fluid">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col">
+            <nav class="navbar navbar-expand-lg">
               <RouterLink class="navbar-brand" to="/"><img width="60" height="40" src="./assets/PortfolioLogo2022.svg">
               </RouterLink>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -34,21 +35,20 @@ import { RouterLink, RouterView } from 'vue-router'
                   </li>
                 </ul>
               </div>
-            </div>
-          </nav>
+            </nav>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <router-view v-slot="{ Component }">
+              <transition name="fade" mode="default">
+                <component :is="Component" />
+              </transition>
+            </router-view>
+          </div>
         </div>
       </div>
-      <div class="row py-4">
-        <div class="col h-100">
-          <router-view v-slot="{ Component }">
-            <transition name="fade" mode="default">
-              <component :is="Component" />
-            </transition>
-          </router-view>
-        </div>
-      </div>
-    </div>
 
-  </header>
+</header>
 </template>
 
