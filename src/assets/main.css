@@ -1,3 +1,9 @@
 @import './base.css';
-.card{background-color:transparent;}
-.modal-content{background-color: transparent;}
+
+.card {
+    background-color: transparent;
+}
+
+.modal-content {
+    background-color: transparent;
+}
