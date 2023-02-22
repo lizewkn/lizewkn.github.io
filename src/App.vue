@@ -1,12 +1,10 @@
 <script setup>
-
-
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 <template>
-  <header>
+  <header class="h-100">
 
-      <div class="container-fluid">
+      <div class="container-fluid h-100">
         <div class="row">
           <div class="col">
             <nav class="navbar navbar-expand-lg">
@@ -35,8 +33,8 @@ import { RouterLink, RouterView } from 'vue-router'
             </nav>
           </div>
         </div>
-        <div class="row d-flex align-content-center">
-          <div class="col">
+        <div class="row">
+          <div class="col my-auto">
             <router-view v-slot="{ Component }">
               <transition name="fade" mode="default">
                 <component :is="Component" />

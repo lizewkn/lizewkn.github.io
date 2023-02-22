@@ -8,8 +8,9 @@
   position: relative;
   font-weight: 200;
 }
-
+html{height: 100%;}
 body {
+  height: 100%;
   min-height: 100vh;
   color: var(--color-text);
   background: var(--color-background);
@@ -23,8 +24,8 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
 }
-
 a,
 .green {
   text-decoration: none;
@@ -255,12 +256,11 @@ a,
 }
 
 .box {
-  border: .5rem solid #191919;
   min-height: 100vh;
-  position: relative;
+  border: .5rem solid #191919;
   padding: .5rem;
+  margin: 0;
 }
-
 .box:before {
   content: " ";
   position: absolute;
