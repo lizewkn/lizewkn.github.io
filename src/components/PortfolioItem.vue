@@ -300,7 +300,7 @@
     <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/ja8/0761d-0a755301-c44b-480f-8ad2-40ebad552d14.png" class="d-block w-100">
     </div>
     <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/ja8/opt 1.jpg" class="d-block w-100">
+      <img src="../assets/images/ja8/opt1.jpg" class="d-block w-100">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem8" data-bs-slide="prev">
