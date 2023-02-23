@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-4 col-md-6 col-sm-12 text-center">
+      <div class="col-md-6 col-sm-12 text-center">
         <Pie :data="data" :options="options" />
       </div>
     </div>
@@ -20,12 +20,13 @@ export default {
   data() {
     return {
       data: {
-        labels: ['Developer', 'Designer'],
+        labels: ['Code', 'Design'],
         datasets: [
           {
-            backgroundColor: ['rgb(0, 120, 0)', '#555'],
-            data: [60, 40],
-            borderColor: ['#191919', '#191919']
+            backgroundColor: ['#cccccc', '#555555'],
+            data: [60, 40],            
+            borderColor: ['#191919', '#191919'],
+            borderWidth: 10          
           }]
       },
       options: {

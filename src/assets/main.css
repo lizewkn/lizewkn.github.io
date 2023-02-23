@@ -2,3 +2,16 @@
 .card{background-color:transparent;}
 .modal-content{background-color: transparent;}
 .modal{background-color: rgba(0, 0, 0, 0.75);}
+.card {cursor: pointer;}
+.card-img-top {
+    width: max-content;
+    height: 20vw;
+    object-fit: cover;
+    margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+    .card-img-top {
+        height: auto;
+    }
+}
+    

@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <div class="row">
           <div class="col">
             <nav class="navbar navbar-expand-lg">
-              <RouterLink class="navbar-brand" to="/"><img width="60" height="40" src="./assets/PortfolioLogo2022.svg">
+              <RouterLink class="navbar-brand" to="/"><img width="60" height="40" src="./assets/images/PortfolioLogo2022.svg">
               </RouterLink>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

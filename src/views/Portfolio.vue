@@ -1,305 +1,209 @@
 <script setup>
 import PortfolioItem from '../components/PortfolioItem.vue'
-</script><!-- <script setup>
-import PortfolioItem from '../components/PortfolioItem.vue'
-import DocumentationIcon from '../components/icons/IconDocumentation.vue'
-import ToolingIcon from '../components/icons/IconTooling.vue'
-import EcosystemIcon from '../components/icons/IconEcosystem.vue'
-import CommunityIcon from '../components/icons/IconCommunity.vue'
-import SupportIcon from '../components/icons/IconSupport.vue'
 </script>
-
-<template>
-  <PortfolioItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>Documentation</template>
-
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
-  </PortfolioItem>
-
-  <PortfolioItem>
-    <template #icon>
-      <ToolingIcon />
-    </template>
-    <template #heading>Tooling</template>
-
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
-
-    <br />
-
-    More instructions are available in <code>README.md</code>.
-  </PortfolioItem>
-
-  <PortfolioItem>
-    <template #icon>
-      <EcosystemIcon />
-    </template>
-    <template #heading>Ecosystem</template>
-
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
-  </PortfolioItem>
-
-  <PortfolioItem>
-    <template #icon>
-      <CommunityIcon />
-    </template>
-    <template #heading>Community</template>
-
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
-  </PortfolioItem>
-
-  <PortfolioItem>
-    <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Support Vue</template>
-
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
-  </PortfolioItem>
-</template> -->
-
 <template>
   <div class="row row-cols-1 row-cols-md-4 g-4">
     <div class="col">
-      <div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item1">
+        <img class="card-img-top img-fluid" src="../assets/images/s63/screencapture-63salon-1493355216115.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">S63 gaming website desgin and coding</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item2">
+        <img class="card-img-top img-fluid" src="../assets/images/appicons/Icon-App-1024x1024.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">App icon design for mobile devices</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item3">
+        <img class="card-img-top img-fluid" src="../assets/images/backoffice/20170201_login.jpg">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">Back office design and fronend coding</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item4">
+        <img class="card-img-top img-fluid" src="../assets/images/clubgj/clubgj3.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">ClubGJ gaming website desgin and coding</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
   </div>
-  <div class="row row-cols-1 row-cols-md-4 g-4">
+  <div class="row row-cols-1 row-cols-md-4 g-4 mt-2">
     <div class="col">
-      <div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item5">
+        <img class="card-img-top img-fluid" src="../assets/images/coin178/coin178_1.jpg">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">Coin178 gaming website desgin and coding</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item6">
+        <img class="card-img-top img-fluid" src="../assets/images/faichun/1.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">Fai Chun design</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item7">
+        <img class="card-img-top img-fluid" src="../assets/images/fh/20160302_688fh_2.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">FH finance website</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item8">
+        <img class="card-img-top img-fluid" src="../assets/images/ja8/0761d-0a755301-c44b-480f-8ad2-40ebad552d14.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+          <p class="card-text green">JA8 gaming website</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
   </div>
-  <div class="row row-cols-1 row-cols-md-4 g-4">
+  <div class="row row-cols-1 row-cols-md-4 g-4 mt-2">
     <div class="col">
-      <div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item1">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
   </div>
-  <div class="row row-cols-1 row-cols-md-4 g-4">
+  <div class="row row-cols-1 row-cols-md-4 g-4 mt-2">
     <div class="col">
-      <div class="card border-0" data-bs-toggle="modal" data-bs-target="#item1">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item1">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
     <div class="col">
-      <div class="card border-0">
-        <img class="card-img-top img-fluid" src="../assets/test-pattern-152459_960_720.png" alt="...">
+      <div class="card border-0 h-100">
+        <img class="card-img-top img-fluid" src="../assets/images/test-pattern-152459_960_720.png">
         <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          <p class="card-text green">Some quick example text to build on the card title and make up the bulk of the card's
             content.</p>
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0">
           <small>#Desgin</small>
-          <small>#Coding</small>
+          &nbsp;<small>#Coding</small>
         </div>
       </div>
     </div>
