@@ -10,13 +10,30 @@
     <div class="row">
       <div class="col">
         <div class="greetings">
-          <p class="green">Hello, my name is Kenny and I am a designer and developer. I enjoy working with computers and
-            solving problems. I also appreciate creativity, art and learning new things. I strive to be an excellent
-            developer and an asset to any team I work with. For the past years, I've been working on projects for
-            clients, including corporations, small businesses, and non-profits. I love creating engaging user
-            experiences that are both functional and engaging.</p>
+          <p class="green">Hello everyone, my name is Kenny Wong and I'm excited to welcome you to my portfolio. I am a
+            front-end developer and designer with extensive experience in the field.</p>
+
+          <p class="green">With years of experience under my belt, I have honed my skills in HTML, CSS, JavaScript, and
+            other front-end technologies. I am proficient in popular frameworks like Vue and Angular, as well as
+            libraries like jQuery and Bootstrap. Whether you are looking to build a responsive website or a dynamic web
+            application, I have the expertise to deliver high-quality solutions that meet your needs.</p>
+
+          <p class="green">One of my strengths as a developer is my ability to work collaboratively with clients and
+            stakeholders. I understand the importance of effective communication and strive to build strong relationships
+            with my clients
+            to ensure that their needs are met. I am also constantly learning and staying up-to-date with the latest
+            trends and technologies in the industry to provide the best possible solutions for my clients.</p>
+
+          <p class="green">In addition to my technical skills, I am also a creative problem-solver who enjoys finding
+            innovative
+            solutions to complex challenges. I am passionate about creating beautiful and functional designs that enhance
+            the user experience and drive engagement.</p>
+
+          <p class="green">Check out my portfolio to see my best work, creative process, and professional representation.
+            It includes a range of projects from graphic design to web development, showcasing my skills and abilities.
+            The portfolio gives insight into my approach to achieving clients' goals and demonstrates my commitment to
+            delivering high-quality work.</p>
         </div>
       </div>
     </div>
-  </div>
-</template>
+</div></template>

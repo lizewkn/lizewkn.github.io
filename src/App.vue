@@ -17,9 +17,6 @@ import { RouterLink, RouterView } from 'vue-router'
               <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <RouterLink class="nav-link"  :to="{ name: 'about' }" active-class="active">About</RouterLink>
-                  </li>
-                  <li class="nav-item">
                     <RouterLink class="nav-link"  :to="{ name: 'skills' }" active-class="active">Skills</RouterLink>
                   </li>
                   <li class="nav-item">
@@ -34,7 +31,7 @@ import { RouterLink, RouterView } from 'vue-router'
           </div>
         </div>
         <div class="row">
-          <div class="col my-auto">
+          <div class="col mt-md-5">
             <router-view v-slot="{ Component }">
               <transition name="fade" mode="default">
                 <component :is="Component" />
