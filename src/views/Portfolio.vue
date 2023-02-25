@@ -2,6 +2,7 @@
 import PortfolioItem from '../components/PortfolioItem.vue'
 </script>
 <template>
+  <div class="container-fluid">
   <div class="row row-cols-1 row-cols-md-4 g-4">
     <div class="col">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item1">
@@ -209,5 +210,5 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
   </div>
   <PortfolioItem>
-  </PortfolioItem>
+  </PortfolioItem></div>
 </template>
