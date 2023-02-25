@@ -4,13 +4,13 @@
     <div class="row">
       <div class="col">
         <h1>Kenny Wong</h1>
-        <h5>Designer & Developer</h5>
+        <h5 class="mt-2">Designer & Developer</h5>
       </div>
     </div>
-    <div class="row">
+    <div class="row mt-4">
       <div class="col">
         <div class="greetings">
-          <p class="green">Hello everyone, my name is Kenny Wong and I'm excited to welcome you to my portfolio. I am a
+          <p class="green">Hello my name is Kenny Wong and I'm excited to welcome you to my portfolio. I am a
             front-end developer and designer with extensive experience in the field.</p>
 
           <p class="green">With years of experience under my belt, I have honed my skills in HTML, CSS, JavaScript, and
