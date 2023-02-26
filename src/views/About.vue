@@ -6,7 +6,6 @@ import PortfolioItem from './Portfolio.vue'
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-          <p>
 
            <h3 class="green">Senior Front-end Developer <span class="fs-5">Flamma Works Design Limited</span></h3>
 
@@ -24,16 +23,16 @@ import PortfolioItem from './Portfolio.vue'
               <p>As a Web Designer at Lazybug Studio from January 2016 to December 2017, I was responsible for designing and
             developing a range of web and app-based projects. I worked on a range of different aspects of each project,
             including the user interface (UI), graphics, logo design, and front-end programming. Some of the key projects
-            I worked on during my time at Lazybug Studio include lazybugstudio and sagaming.
+            I worked on during my time at Lazybug Studio include lazybugstudio and sagaming.</p>
 
             <h3 class="green mt-5">Web/App Designer <span class="fs-5">ON.CC</span></h3>
 
               <h5 class="fst-italic fw-lighter my-2">(08/2015 - 12/2015)</h5>
 
-              </p>During my time as a Web/App Designer at ON.CC, I was responsible for designing and developing
+              <p>During my time as a Web/App Designer at ON.CC, I was responsible for designing and developing
             a range of web and app-based projects. This included designing the user interface (UI), graphics, and logos.
-            One of the key projects I worked on during my time at ON.CC was the design of the
-            ON.CC iPad App.</p>
+            One of the key projects I worked on during my time at ON.CC wwew the design of the
+            ON.CC iPad App and the website itself.</p>
 
             <h3 class="green mt-5">Web Designer/Developer <span class="fs-5">Intimex Business Solutions</span></h3>
 
@@ -53,10 +52,10 @@ import PortfolioItem from './Portfolio.vue'
           user interface (UI) and other front-end programming tasks.</p>
       </div>
     </div>
-    <div class="row mt-4">
+    <!-- <div class="row mt-4">
       <div class="col">
         <PortfolioItem />
       </div>
-    </div>
+    </div> -->
   </div>
 </main></template>

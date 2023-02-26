@@ -22,12 +22,25 @@
         community, and am looking forward to the opportunities that lie ahead.</p>
       </div>
       </div>
-      <div class="row justify-content-center mt-md-5">
-        <div class="col-md-4 col-sm-12 text-center">
+      <div class="row justify-content-center mt-5">
+        <div class="col-md-4 col-sm-12 text-center order-2">
           <Pie :data="data" :options="options" />
         </div>
-      <div class="col-md-4">
-        <h2>Coding</h2>
+      <div class="col-auto order-1">
+        <h2 class="green fw-light">#Design</h2>
+<ul>
+<li>Graphic Design</li>
+<li>Web Design</li>
+<li>Logo Design</li>
+<li>UI/UX Design</li>
+<li>App UI Design</li>
+<li>Animation</li>
+<li>Video Editing</li>
+<li>Adobe Creative Suite</li>
+</ul>
+      </div>
+      <div class="col-auto order-3">
+        <h2 class="fw-light">#Coding</h2>
 <ul>
 <li>HTML</li>
 <li>CSS, SCSS and Sass</li>
@@ -42,19 +55,6 @@
     <li>MySQL</li>
     <li>Firebase</li>
     <li>Swift UI</li>
-</ul>
-      </div>
-      <div class="col-md-4">
-        <h2>Design</h2>
-<ul>
-<li>Graphic Design</li>
-<li>Web Design</li>
-<li>Logo Design</li>
-<li>UI/UX Design</li>
-<li>App UI Design</li>
-<li>Animation</li>
-<li>Video Editing</li>
-<li>Adobe Creative Suite</li>
 </ul>
       </div>
       </div>
@@ -76,10 +76,10 @@ export default {
         labels: ['Code', 'Design'],
         datasets: [
           {
-            backgroundColor: ['#cccccc', '#555555'],
+            backgroundColor: ['#cccccc', '#00ff00'],
             data: [60, 40],
             borderColor: ['#191919', '#191919'],
-            borderWidth: 10
+            borderWidth: 1
           }]
       },
       options: {
@@ -89,9 +89,18 @@ export default {
           legend: {
             display: false
           }
-        }
+        },
+    tooltips: {
+      callbacks: {
+        //add % to the tooltip after the value
+        label: function(tooltipItem, data) {
+          return data['labels'][tooltipItem['index']] + ': ' + data['datasets'][0]['data'][tooltipItem['index']] + '%' ;
+    }
+        
+    }
       }
     }
   }
+}
 }
 </script>

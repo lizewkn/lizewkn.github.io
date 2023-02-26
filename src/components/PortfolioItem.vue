@@ -5,7 +5,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item1Label">S63 gaming website</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -33,17 +33,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem1" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem1" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -55,7 +54,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item2Label">App icon</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -77,17 +76,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem2" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem2" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -99,7 +97,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item3Label">Back office</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -115,17 +113,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem3" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem3" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -137,7 +134,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item4Label">ClubGJ gaming website</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -150,17 +147,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem4" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem4" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -172,7 +168,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item5Label">Coin178 gaming website</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -188,17 +184,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem5" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem5" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -210,7 +205,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item6Label">Fai Chun</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -238,16 +233,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem6" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem6" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small></p>
+          <small class="green">#Desgin</small></p>
 </div>
         </div>
       </div>
@@ -259,7 +254,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item7Label">FH finance website</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -269,17 +264,16 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem7" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem7" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
@@ -291,7 +285,7 @@
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item8Label">JA8 gaming website</h1>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="clearfix">
@@ -304,20 +298,458 @@
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem8" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselitem8" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
   <p class="mt-4">
-          <small>#Desgin</small>
-          &nbsp;<small>#Coding</small></p>
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
         </div>
       </div>
     </div>
   </div>
+  <div class="modal fade" id="item9" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item9Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item9Label">Thepoint website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem9" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/tp/1.jpg" class="d-block w-100">
+    </div>
+  </div>
+</div>
+  <p class="mt-4">
+          <small class="green">#Coding</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item10" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item10Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item10Label">Citibank website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem10" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/citi/card.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/citi/citigold.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/citi/form.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/citi/edm.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem10" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem10" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Coding</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item11" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item11Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item11Label">Lazybug website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem11" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/lbs/layouts/Home.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-1493354791787.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-1493375950851.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-cs1-html-1493375544545.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-cs2-html-1493375556264.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-cs3-html-1493375563309.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-expertise-html-1493375505712.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-lazybug-html-1493375521061.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-partner-html-1493375580576.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/screencapture-lazybugstudio-work-html-1493375573762.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/lbs/layouts/WhoWeAre.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem11" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem11" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item12" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item12Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item12Label">SA Gaming website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem12" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/sag/screencapture-sagaming-1493354857030.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/sag/screencapture-sagaming-1493375908156.png" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem12" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem12" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item13" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item13Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item13Label">SDRE logo design</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem13" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/logo/Artboard11.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard14.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard2.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard3.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard5.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard6.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/logo/Artboard9.png" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem13" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem13" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item14" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item14Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item14Label">PP gaming website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem14" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/ppg/layouts/PPGaming_web_layout.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/ppg/layouts/PPGaming_web_layout2.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem14" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem14" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item15" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item15Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item15Label">ON.CC website</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem15" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/oncc2015/ontv.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/02_web_index_01.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/20151020.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/640x832.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/hkjc20150901_resulttable.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/hkjc_20150917.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/HKSL.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/mgfocus_1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/mgfocus_2.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/web_index.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/web_landing_20151125.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem15" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem15" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem15" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/oncc2015/ontv.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/02_web_index_01.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/20151020.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/640x832.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/hkjc20150901_resulttable.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/hkjc_20150917.png" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/HKSL.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/mgfocus_1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/mgfocus_2.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/web_index.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/oncc2015/web_landing_20151125.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem15" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem15" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="item16" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item16Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item16Label">ON.CC iPad app design</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem16" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/onccipad/iPad_oncc_index.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/onccipad/iPad_oncc_index_m.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/onccipad/iPad_oncc_index_mmenu.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem16" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem16" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+        </div>
+      </div>
+    </div>
+  <div class="modal fade" id="item17" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item17Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item17Label">Live gaming UI design</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem17" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/ui/Artboard1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/ui/1col_1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/ui/LOBBY.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/ui/sicbo_20170301_6.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem17" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem17" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+        </div>
+      </div>
+    </div>
 </template>
+<style>
+.bi.bi-chevron-right.green.fs-1,.bi.bi-chevron-left.green.fs-1 {
+  border-bottom: .15rem solid transparent;
+}
+.bi.bi-chevron-right.green.fs-1:hover,.bi.bi-chevron-left.green.fs-1:hover {
+  border-bottom: .15rem solid #00ff00;
+}
+.modal-header .btn-close{line-height: 1; padding-left:0; padding-right:0; padding-bottom: .25rem; border-bottom: .15rem solid transparent;}
+.modal-header .btn-close:hover,.modal-header .btn-close:focus{color: #00ff00; border: 0; border-bottom: .15rem solid #00ff00; border-radius: 0;}
+</style>
