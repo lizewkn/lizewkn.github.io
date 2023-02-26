@@ -41,7 +41,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -85,7 +85,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -123,7 +123,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -158,7 +158,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -196,7 +196,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -246,7 +246,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small></p>
 </div>
         </div>
@@ -277,7 +277,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
@@ -312,7 +312,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  <p>
+  <p class="mt-4">
           <small>#Desgin</small>
           &nbsp;<small>#Coding</small></p>
 </div>
