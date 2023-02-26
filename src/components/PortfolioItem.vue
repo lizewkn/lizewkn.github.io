@@ -381,7 +381,7 @@
     <div class="modal-dialog modal-dialog-centered modal-lg border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
-          <h1 class="modal-title fs-5" id="item11Label">Lazybug website</h1>
+          <h1 class="modal-title fs-5" id="item11Label">Lazybug Studio website</h1>
           <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">

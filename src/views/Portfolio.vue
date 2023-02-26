@@ -38,7 +38,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item11">
         <img class="card-img-top img-fluid" src="../assets/images/lbs/layouts/Home.jpg">
         <div class="card-body pb-0">
-          <p class="card-text pb-0">Lazybug website</p>
+          <p class="card-text pb-0">Lazybug Studio website</p>
         </div>
         <div class="card-footer border-0 pt-0">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small>
