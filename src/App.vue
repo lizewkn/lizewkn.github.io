@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="container-fluid h-100">
         <div class="row">
           <div class="col">
-            <nav class="navbar navbar-expand-lg">
+            <nav class="navbar navbar-dark navbar-expand-lg">
               <RouterLink class="navbar-brand" to="/"><img width="60" height="40" src="./assets/images/PortfolioLogo2022.svg">
               </RouterLink>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -34,7 +34,7 @@ import { RouterLink, RouterView } from 'vue-router'
           </div>
         </div>
         <div class="row">
-          <div class="col my-md-5">
+          <div class="col my-5">
             <router-view v-slot="{ Component }">
               <transition name="fade" mode="default">
                 <component :is="Component" />

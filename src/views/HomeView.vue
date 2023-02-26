@@ -10,8 +10,7 @@
     <div class="row mt-4">
       <div class="col">
         <div class="greetings">
-          <p class="green">Hello my name is Kenny Wong and I'm excited to welcome you to my portfolio. I am a
-            front-end developer and designer with extensive experience in the field.</p>
+          <p class="green">I am a front-end developer and designer with extensive experience in the field.</p>
 
           <p class="green">With years of experience under my belt, I have honed my skills in HTML, CSS, JavaScript, and
             other front-end technologies. I am proficient in popular frameworks like Vue and Angular, as well as
