@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col">
         <p class="green">I am an experienced coder and designer with a passion for creating high-quality products that provide users with
-        the best possible experience. My studies in multimedia at Deakin University in Australia and the UK have provided
+        the best possible experience. My studies in Information Technology (Multimedia) at Deakin University have provided
         me with a comprehensive understanding of coding and design. My coding skills include HTML, CSS, SCSS, SASS,
         JavaScript, jQuery, Angular, Vue, Bootstrap, and Swift UI. My design skills include web design, EDM design, UI/UX
         design, app UI design, and tools such as Adobe, Github, WordPress, MySQL, and Firebase.</p>
@@ -28,7 +28,7 @@
         </div>
       <div class="col-auto order-1">
         <h2 class="green fw-light">#Design</h2>
-<ul>
+<ul class="green">
 <li>Graphic Design</li>
 <li>Web Design</li>
 <li>Logo Design</li>
@@ -49,11 +49,12 @@
 <li>Angular</li>
 <li>Vue</li>
 <li>Bootstrap</li>
-<li>Electronic Direct Marketing (EDM)</li>
     <li>GitHub</li>
     <li>WordPress</li>
     <li>MySQL</li>
     <li>Firebase</li>
+<li>MYSQL</li>
+<li>Php</li>
     <li>Swift UI</li>
 </ul>
       </div>

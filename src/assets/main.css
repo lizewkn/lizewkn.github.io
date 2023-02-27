@@ -19,5 +19,6 @@ h1{font-weight: 700;}
 a.link{cursor: pointer; color:#00ff00;}
 a.link:hover, a.link:focus{color:#00ff00; text-decoration: underline;}
 a.linkc{cursor: pointer; color:#cccccc;}
-a.linkc i{color:#00ff00;}
+a.linkc i{color:#00ff00; line-height: 1.25;}
 a.linkc:hover, a.linkc:focus{color:#00ff00; text-decoration: underline;}
+span.fs-5{font-weight: 300;}
