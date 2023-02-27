@@ -49,6 +49,7 @@
 <li>jQuery</li>
 <li>Angular</li>
 <li>Vue</li>
+<li>React</li>
 <li>Bootstrap</li>
     <li>GitHub</li>
     <li>WordPress</li>
