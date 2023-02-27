@@ -37,6 +37,7 @@
 <li>Animation</li>
 <li>Video Editing</li>
 <li>Adobe Creative Suite</li>
+<li>Figma</li>
 </ul>
       </div>
       <div class="col-auto order-3">
