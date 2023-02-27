@@ -612,56 +612,6 @@
           <small class="green">#Desgin</small></p>
 </div>
         </div>
-        <div class="modal-body">
-          <div class="clearfix">
-            <div id="carouselitem15" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/oncc2015/ontv.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/02_web_index_01.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/20151020.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/640x832.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/hkjc20150901_resulttable.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/hkjc_20150917.png" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/HKSL.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/mgfocus_1.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/mgfocus_2.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/web_index.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/oncc2015/web_landing_20151125.jpg" class="d-block w-100">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem15" data-bs-slide="prev">
-    <i class="bi bi-chevron-left green fs-1"></i>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem15" data-bs-slide="next">
-    <i class="bi bi-chevron-right green fs-1"></i>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-  <p class="mt-4">
-          <small class="green">#Desgin</small></p>
-</div>
-        </div>
       </div>
     </div>
   </div>
