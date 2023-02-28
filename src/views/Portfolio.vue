@@ -170,7 +170,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item3">
         <img class="card-img-top img-thumbnail border-0" src="../assets/images/backoffice/20170201_login.jpg">
         <div class="card-body pb-0">
-          <p class="card-text pb-0">Back office design and fronend coding</p>
+          <p class="card-text pb-0">Back office design and front-end coding</p>
         </div>
         <div class="card-footer border-0 pt-0">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small>
