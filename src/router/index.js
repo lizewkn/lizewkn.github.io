@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
@@ -10,7 +10,7 @@ const router = createRouter({
       component: HomeView
     },
     {
-      path: '/',
+      path: '/skills',
       name: 'skills',
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
@@ -18,23 +18,19 @@ const router = createRouter({
       component: () => import('../views/Skills.vue')
     },
     {
-      path: '/',
+      path: '/portfolio',
       name: 'portfolio',
       component: () => import('../views/Portfolio.vue')
     },
     {
-      path: '/',
+      path: '/contact',
       name: 'contact',
       component: () => import('../views/Contact.vue')
     },
     {
-      path: '/',
+      path: '/about',
       name: 'about',
       component: () => import('../views/About.vue')
-    },
-    {
-      path: '/portfolio',
-      component: () => import('../views/Portfolio.vue')
     }
 
   ]
