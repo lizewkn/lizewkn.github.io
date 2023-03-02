@@ -280,9 +280,7 @@ a,
 .navbar .nav-link:hover,
 .navbar .nav-link.active {
   color: rgb(0, 255, 0);
-}
-.navbar .nav-link:focus,
-.navbar .nav-link:hover{text-decoration: underline;}
+text-decoration: underline;}
 
 footer {
   position: absolute;
