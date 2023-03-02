@@ -9,7 +9,7 @@ import PortfolioItem from './Portfolio.vue'
 <p class="green mb-5">I'm a Deakin University graduate in Information Technology (Multimedia) with 10+ years of experience in programming and design. I'm passionate about innovation and staying up-to-date with the latest trends and technologies, and am a strong communicator who enjoys working collaboratively with clients and stakeholders.</p>
            <h3 class="green">Senior Front-end Developer <span class="fs-5">Flamma Works Design Limited</span></h3>
 
-            <h5 class="fst-italic fw-lighter my-2">(03/2018 - 2023)</h5>
+            <h5 class="fst-italic fw-lighter my-2">(03/2018 - 03/2023)</h5>
 
             <p>At Flamma Works Design Limited, I work as a Senior Front-end Developer, and I have been in the role since
             March 2018. In my time here, I have been responsible for the front-end programming of key projects such as
