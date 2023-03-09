@@ -38,6 +38,7 @@
 <li>Video Editing</li>
 <li>Adobe Creative Suite</li>
 <li>Figma</li>
+    <li>Swift UI</li>
 </ul>
       </div>
       <div class="col-auto order-3">
@@ -57,7 +58,6 @@
     <li>Firebase</li>
 <li>MYSQL</li>
 <li>Php</li>
-    <li>Swift UI</li>
 </ul>
       </div>
       </div>
