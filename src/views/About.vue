@@ -31,7 +31,7 @@ import PortfolioItem from './Portfolio.vue'
 
               <p>During my time as a Web/App Designer at ON.CC, I was responsible for designing and developing
             a range of web and app-based projects. This included designing the user interface (UI), graphics, and logos.
-            One of the key projects I worked on during my time at ON.CC wwew the design of the
+            One of the key projects I worked on during my time at ON.CC the design of the
             ON.CC iPad App and the website itself.</p>
 
             <h3 class="green mt-5">Web Designer/Developer <span class="fs-5">Intimex Business Solutions</span></h3>
