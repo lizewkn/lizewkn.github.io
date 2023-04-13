@@ -693,14 +693,3 @@
       </div>
     </div>
 </template>
-
-<style>
-.bi.bi-chevron-right.green.fs-1,.bi.bi-chevron-left.green.fs-1 {
-  border-bottom: .15rem solid transparent;
-}
-button:hover .bi.bi-chevron-right.green.fs-1,button:hover .bi.bi-chevron-left.green.fs-1{
-  border-bottom: .15rem solid #00ff00;
-}
-.modal-header .btn-close{line-height: 1; padding-left:0; padding-right:0; padding-bottom: .25rem; border-bottom: .15rem solid transparent;}
-.modal-header .btn-close:hover,.modal-header .btn-close:focus{color: #00ff00; border: 0; border-bottom: .15rem solid #00ff00; border-radius: 0;}
-</style>
