@@ -693,6 +693,7 @@
       </div>
     </div>
 </template>
+
 <style>
 .bi.bi-chevron-right.green.fs-1,.bi.bi-chevron-left.green.fs-1 {
   border-bottom: .15rem solid transparent;
