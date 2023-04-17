@@ -14,7 +14,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
   <div class="row">
     <div class="col-md-3 mb-4" v-show="coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item10">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/citi/card.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/citi/card_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Citibank website</p>
         </div>
@@ -25,7 +25,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item9">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/tp/1.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/tp/1_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Thepoint website</p>
         </div>
@@ -36,7 +36,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item11">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/lbs/layouts/Home.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/lbs/layouts/Home_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Lazybug Studio website</p>
         </div>
@@ -47,7 +47,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item15">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/oncc2015/ontv.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/oncc2015/ontv_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">ON.CC website design</p>
         </div>
@@ -58,7 +58,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item16">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/onccipad/iPad_oncc_index.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/onccipad/iPad_oncc_index_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">ON.CC iPad app design</p>
         </div>
@@ -69,7 +69,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item1">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/s63/screencapture-63salon-1493355216115.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/s63/screencapture-63salon-1493355216115_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">S63 gaming website desgin and coding</p>
         </div>
@@ -80,7 +80,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item2">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/appicons/Icon-App-1024x1024.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/appicons/Icon-App-1024x1024_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">App icon design for mobile devices</p>
         </div>
@@ -91,7 +91,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item12">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/sag/screencapture-sagaming-1493354857030.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/sag/screencapture-sagaming-1493354857030_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">SA Gaming website</p>
         </div>
@@ -102,7 +102,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
       </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item5">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/coin178/coin178_1.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/coin178/coin178_1_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Coin178 gaming website desgin and coding</p>
         </div>
@@ -113,7 +113,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item6">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/faichun/1.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/faichun/1_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Fai Chun design</p>
         </div>
@@ -124,7 +124,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item7">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/fh/20160302_688fh_2.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/fh/20160302_688fh_2_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">FH finance website</p>
         </div>
@@ -135,7 +135,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item8">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ja8/0761d-0a755301-c44b-480f-8ad2-40ebad552d14.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ja8/0761d-0a755301-c44b-480f-8ad2-40ebad552d14_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">JA8 gaming website</p>
         </div>
@@ -146,7 +146,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item14">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ppg/layouts/PPGaming_web_layout.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ppg/layouts/PPGaming_web_layout_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">PP gaming website</p>
         </div>
@@ -157,7 +157,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
       </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item13">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/logo/Artboard11.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/logo/Artboard11_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">SDRE logo design</p>
         </div>
@@ -168,7 +168,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item3">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/backoffice/20170201_login.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/backoffice/20170201_login_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Back office design and front-end coding</p>
         </div>
@@ -179,7 +179,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design || coding">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item4">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/clubgj/clubgj3.png">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/clubgj/clubgj3_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">ClubGJ gaming website desgin and coding</p>
         </div>
@@ -190,7 +190,7 @@ import PortfolioItem from '../components/PortfolioItem.vue'
     </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item17">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ui/Artboard1.jpg">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ui/Artboard1_c.jpg">
         <div class="card-body pb-0">
           <p class="card-text pb-0">Live gaming UI design</p>
         </div>
