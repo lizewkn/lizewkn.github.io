@@ -52,7 +52,7 @@
 <li>Vue</li>
 <li>React</li>
 <li>Bootstrap</li>
-    <li>GitHub</li>
+    <li>Git</li>
     <li>WordPress</li>
     <li>MySQL</li>
     <li>Firebase</li>
