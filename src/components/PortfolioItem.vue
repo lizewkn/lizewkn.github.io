@@ -1,7 +1,7 @@
 <template>
   <div class="modal fade" id="item1" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item1Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item1Label">S63 gaming website</h1>
@@ -50,7 +50,7 @@
   </div>
   <div class="modal fade" id="item2" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item2Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item2Label">App icon</h1>
@@ -93,7 +93,7 @@
   </div>
   <div class="modal fade" id="item3" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item3Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item3Label">Back office</h1>
@@ -130,7 +130,7 @@
   </div>
   <div class="modal fade" id="item4" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item4Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item4Label">ClubGJ gaming website</h1>
@@ -164,7 +164,7 @@
   </div>
   <div class="modal fade" id="item5" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item5Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item5Label">Coin178 gaming website</h1>
@@ -201,7 +201,7 @@
   </div>
   <div class="modal fade" id="item6" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item6Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item6Label">Fai Chun</h1>
@@ -250,7 +250,7 @@
   </div>
   <div class="modal fade" id="item7" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item7Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item7Label">FH finance website</h1>
@@ -281,7 +281,7 @@
   </div>
   <div class="modal fade" id="item8" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item8Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item8Label">JA8 gaming website</h1>
@@ -315,7 +315,7 @@
   </div>
   <div class="modal fade" id="item9" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item9Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item9Label">Thepoint website</h1>
@@ -338,7 +338,7 @@
   </div>
   <div class="modal fade" id="item10" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item10Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item10Label">Citibank website</h1>
@@ -378,7 +378,7 @@
   </div>
   <div class="modal fade" id="item11" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item11Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item11Label">Lazybug Studio website</h1>
@@ -439,7 +439,7 @@
   </div>
   <div class="modal fade" id="item12" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item12Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item12Label">SA Gaming website</h1>
@@ -473,7 +473,7 @@
   </div>
   <div class="modal fade" id="item13" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item13Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item13Label">SDRE logo design</h1>
@@ -522,7 +522,7 @@
   </div>
   <div class="modal fade" id="item14" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item14Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item14Label">PP gaming website</h1>
@@ -556,7 +556,7 @@
   </div>
   <div class="modal fade" id="item15" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item15Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item15Label">ON.CC website</h1>
@@ -617,7 +617,7 @@
   </div>
   <div class="modal fade" id="item16" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item16Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item16Label">ON.CC iPad app design</h1>
@@ -654,7 +654,7 @@
     </div>
   <div class="modal fade" id="item17" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item17Label"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg border-0">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
           <h1 class="modal-title fs-5" id="item17Label">Live gaming UI design</h1>
