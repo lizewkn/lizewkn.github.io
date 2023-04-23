@@ -34,17 +34,6 @@ import PortfolioItem from '../components/PortfolioItem.vue'
         </div>
       </div>
     </div>
-    <div class="col-md-3 mb-4" v-show="design || coding">
-      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item11">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/lbs/layouts/Home_c.jpg">
-        <div class="card-body pb-0">
-          <p class="card-text pb-0">Lazybug Studio website</p>
-        </div>
-        <div class="card-footer border-0 pt-0">
-          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small>
-        </div>
-      </div>
-    </div>
     <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item15">
         <img class="card-img-top img-thumbnail border-0" src="../assets/images/oncc2015/ontv_c.jpg">
@@ -53,6 +42,28 @@ import PortfolioItem from '../components/PortfolioItem.vue'
         </div>
         <div class="card-footer border-0 pt-0">
           <small class="green">#Desgin</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-4" v-show="design">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item17">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ui/Artboard1_c.jpg">
+        <div class="card-body pb-0">
+          <p class="card-text pb-0">Live gaming UI design</p>
+        </div>
+        <div class="card-footer border-0 pt-0">
+          <small class="green">#Desgin</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-4" v-show="design || coding">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item11">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/lbs/layouts/Home_c.jpg">
+        <div class="card-body pb-0">
+          <p class="card-text pb-0">Lazybug Studio website</p>
+        </div>
+        <div class="card-footer border-0 pt-0">
+          <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small>
         </div>
       </div>
     </div>
@@ -185,17 +196,6 @@ import PortfolioItem from '../components/PortfolioItem.vue'
         </div>
         <div class="card-footer border-0 pt-0">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-3 mb-4" v-show="design">
-      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item17">
-        <img class="card-img-top img-thumbnail border-0" src="../assets/images/ui/Artboard1_c.jpg">
-        <div class="card-body pb-0">
-          <p class="card-text pb-0">Live gaming UI design</p>
-        </div>
-        <div class="card-footer border-0 pt-0">
-          <small class="green">#Desgin</small>
         </div>
       </div>
     </div>
