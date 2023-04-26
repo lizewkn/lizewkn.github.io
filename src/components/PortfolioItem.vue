@@ -10,37 +10,22 @@
         <div class="modal-body">
           <div class="clearfix">
             <div id="carouselitem1" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/s63/screencapture-63salon-1493355216115.png" class="d-block w-100">
+    <div class="carousel-inner">
+      <template v-for="(image, index) in images1">
+        <div :class="['carousel-item', { active: index === 0 }]" data-bs-interval="99999">
+          <img :src="image.src" :alt="image.alt" class="d-block w-100">
+        </div>
+      </template>
     </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/10_0_promotion.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/1_0_index.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/1_1_point_mall.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/63-1.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/63_2_dark_blue_p2.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/s63/8_0_mobile.jpg" class="d-block w-100">
-    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem1" data-bs-slide="prev">
+      <i class="bi bi-chevron-left green fs-1"></i>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselitem1" data-bs-slide="next">
+      <i class="bi bi-chevron-right green fs-1"></i>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem1" data-bs-slide="prev">
-    <i class="bi bi-chevron-left green fs-1"></i>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem1" data-bs-slide="next">
-    <i class="bi bi-chevron-right green fs-1"></i>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
   <p class="mt-4">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
@@ -59,31 +44,22 @@
         <div class="modal-body">
           <div class="clearfix">
             <div id="carouselitem2" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/appicons/Android_Product_Icon.jpg" class="d-block w-100">
+    <div class="carousel-inner">
+      <template v-for="(image, index) in images2">
+        <div :class="['carousel-item', { active: index === 0 }]" data-bs-interval="99999">
+          <img :src="image.src" :alt="image.alt" class="d-block w-100">
+        </div>
+      </template>
     </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/appicons/app.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/appicons/AppIcons-iOS11.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/appicons/Icon-App-1024x1024.png" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/appicons/512.png" class="d-block w-100">
-    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem2" data-bs-slide="prev">
+      <i class="bi bi-chevron-left green fs-1"></i>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselitem2" data-bs-slide="next">
+      <i class="bi bi-chevron-right green fs-1"></i>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem2" data-bs-slide="prev">
-    <i class="bi bi-chevron-left green fs-1"></i>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem2" data-bs-slide="next">
-    <i class="bi bi-chevron-right green fs-1"></i>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
   <p class="mt-4">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
@@ -102,25 +78,22 @@
         <div class="modal-body">
           <div class="clearfix">
             <div id="carouselitem3" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/backoffice/20170201_login.jpg" class="d-block w-100">
+    <div class="carousel-inner">
+      <template v-for="(image, index) in images3">
+        <div :class="['carousel-item', { active: index === 0 }]" data-bs-interval="99999">
+          <img :src="image.src" :alt="image.alt" class="d-block w-100">
+        </div>
+      </template>
     </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/backoffice/20170124_bo.jpg" class="d-block w-100">
-    </div>
-    <div class="carousel-item" data-bs-interval="99999">
-      <img src="../assets/images/backoffice/20170201_bo2.jpg" class="d-block w-100">
-    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem3" data-bs-slide="prev">
+      <i class="bi bi-chevron-left green fs-1"></i>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselitem3" data-bs-slide="next">
+      <i class="bi bi-chevron-right green fs-1"></i>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem3" data-bs-slide="prev">
-    <i class="bi bi-chevron-left green fs-1"></i>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem3" data-bs-slide="next">
-    <i class="bi bi-chevron-right green fs-1"></i>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
   <p class="mt-4">
           <small class="green">#Desgin</small><small class="ps-2 green">#Coding</small></p>
 </div>
@@ -693,3 +666,62 @@
       </div>
     </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      images1: [
+        {
+          src: "../src/assets/images/s63/screencapture-63salon-1493355216115.png"
+        },
+        {
+          src: "../src/assets/images/s63/10_0_promotion.jpg",
+        },
+        {
+          src: "../src/assets/images/s63/1_0_index.jpg"
+        },
+        {
+          src: "../src/assets/images/s63/1_1_point_mall.jpg"
+        },
+        {
+          src: "../src/assets/images/s63/63-1.jpg"
+        },
+        {
+          src: "../src/assets/images/s63/63_2_dark_blue_p2.jpg"
+        },
+        {
+          src: "../src/assets/images/s63/8_0_mobile.jpg"
+        }
+      ],
+      images2: [
+        {
+          src: "../src/assets/images/appicons/Android_Product_Icon.jpg"
+        },
+        {
+          src: "../src/assets/images/appicons/app.jpg"
+        },
+        {
+          src: "../src/assets/images/appicons/AppIcons-iOS11.jpg"
+        },
+        {
+          src: "../src/assets/images/appicons/Icon-App-1024x1024.png"
+        },
+        {
+          src: "../src/assets/images/appicons/512.png"
+        }       
+      ],
+      images3: [
+        {
+          src: "../src/assets/images/backoffice/20170201_login.jpg"
+        },
+        {
+          src: "../src/assets/images/backoffice/20170124_bo.jpg"
+        },
+        {
+          src: "../src/assets/images/backoffice/20170201_bo2.jpg"
+        }       
+      ],
+    };
+  }
+};
+</script>
