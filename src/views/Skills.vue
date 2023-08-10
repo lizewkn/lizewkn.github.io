@@ -48,14 +48,14 @@
 <li>CSS, SCSS and Sass</li>
 <li>JavaScript</li>
 <li>jQuery</li>
+<li>Typescript</li>
 <li>Angular</li>
 <li>Vue</li>
 <li>React</li>
 <li>Bootstrap</li>
     <li>Git</li>
     <li>WordPress</li>
-    <li>MySQL</li>
-    <li>Firebase</li>
+    <li>Springboot</li>
 <li>MYSQL</li>
 <li>Php</li>
 </ul>
