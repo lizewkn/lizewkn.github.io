@@ -12,7 +12,8 @@ import PortfolioItem from './Portfolio.vue'
             <h5 class="fst-italic fw-lighter my-2">(03/2023 - Present)</h5>
 
             <p>Since March 2023, I've been working as a freelance developer, specializing in web app programming, UI/UX design, web design, online store design and programming, CMS platforms, and utilizing technologies like Magento, Angular, React, and Vue. My work involves creating visually appealing and user-friendly websites and applications that meet the specific requirements of clients. I've also gained experience in managing online stores and implementing various content management systems to ensure efficient website maintenance and updates. This role has allowed me to independently manage projects while keeping up with the latest trends in web development and design</p>
-           <h3 class="green">Senior Front-end Developer <span class="fs-5">Flamma Works Design Limited</span></h3>
+
+<h3 class="green mt-5">Senior Front-end Developer <span class="fs-5">Flamma Works Design Limited</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2018 - 03/2023)</h5>
 
