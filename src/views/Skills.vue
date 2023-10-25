@@ -32,6 +32,8 @@
 <li>Graphic Design</li>
 <li>Web Design</li>
 <li>Logo Design</li>
+    <li>Product Desgin</li>
+    <li>PackageDesgin</li>
 <li>UI/UX Design</li>
 <li>App UI Design</li>
 <li>Animation</li>
@@ -39,6 +41,7 @@
 <li>Adobe Creative Suite</li>
 <li>Figma</li>
     <li>Swift UI</li>
+    <li>Blender</li>
 </ul>
       </div>
       <div class="col-auto order-3">
