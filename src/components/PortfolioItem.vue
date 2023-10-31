@@ -697,7 +697,7 @@
     <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
         <div class="modal-header border-0">
-          <h1 class="modal-title fs-5" id="item18Label">Live gaming UI design</h1>
+          <h1 class="modal-title fs-5" id="item18Label">ES 3d product design and production</h1>
           <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
