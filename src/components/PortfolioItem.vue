@@ -713,11 +713,11 @@
       <img src="../assets/images/3d/2023-09-18-114839.jpg" class="d-block w-100">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem17" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem18" data-bs-slide="prev">
     <i class="bi bi-chevron-left green fs-1"></i>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem17" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem18" data-bs-slide="next">
     <i class="bi bi-chevron-right green fs-1"></i>
     <span class="visually-hidden">Next</span>
   </button>
