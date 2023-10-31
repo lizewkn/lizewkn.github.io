@@ -79,6 +79,17 @@ import PortfolioItem from '../components/PortfolioItem.vue'
       </div>
     </div>
     <div class="col-md-3 mb-4" v-show="design">
+      <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item18">
+        <img class="card-img-top img-thumbnail border-0" src="../assets/images/3d/2023-10-31-164231_C.jpg">
+        <div class="card-body pb-0">
+          <p class="card-text pb-0">ES 3d product design and production</p>
+        </div>
+        <div class="card-footer border-0 pt-0">
+          <small class="green">#Desgin</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-4" v-show="design">
       <div class="card border-0 h-100" data-bs-toggle="modal" data-bs-target="#item17">
         <img class="card-img-top img-thumbnail border-0" src="../assets/images/ui/Artboard1_c.jpg">
         <div class="card-body pb-0">

@@ -652,7 +652,7 @@
         </div>
       </div>
     </div>
-  <div class="modal fade" id="item17" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item17Label"
+  <div class="modal fade" id="item18" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item18Label"
     aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl border-0">
       <div class="modal-content">
@@ -674,6 +674,43 @@
     </div>
     <div class="carousel-item" data-bs-interval="99999">
       <img src="../assets/images/ui/sicbo_20170301_6.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem17" data-bs-slide="prev">
+    <i class="bi bi-chevron-left green fs-1"></i>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselitem17" data-bs-slide="next">
+    <i class="bi bi-chevron-right green fs-1"></i>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+  <p class="mt-4">
+          <small class="green">#Desgin</small></p>
+</div>
+        </div>
+        </div>
+      </div>
+    </div>
+  <div class="modal fade" id="item18" data-bs-keyboard="false" tabindex="-1" aria-labelledby="item18Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl border-0">
+      <div class="modal-content">
+        <div class="modal-header border-0">
+          <h1 class="modal-title fs-5" id="item18Label">Live gaming UI design</h1>
+          <button type="button" class="btn-close bi bi-x-lg green fs-1" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="clearfix">
+            <div id="carouselitem18" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="99999"><img src="../assets/images/3d/2023-10-31-164231.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/3d/2023-09-18-114940.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="99999">
+      <img src="../assets/images/3d/2023-09-18-114839.jpg" class="d-block w-100">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselitem17" data-bs-slide="prev">
