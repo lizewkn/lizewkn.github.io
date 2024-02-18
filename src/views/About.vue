@@ -7,9 +7,14 @@ import PortfolioItem from './Portfolio.vue'
       <div class="row">
         <div class="col">
 <p class="green mb-5">I'm a Deakin University graduate in Information Technology (Multimedia) with 10+ years of experience in programming and design. I'm passionate about innovation and staying up-to-date with the latest trends and technologies, and am a strong communicator who enjoys working collaboratively with clients and stakeholders.</p>
-           <h3 class="green">Freelance Developer</h3>
+           <h3 class="green">Web Developer, Corporate Travel Management</h3>
 
-            <h5 class="fst-italic fw-lighter my-2">(03/2023 - Present)</h5>
+            <h5 class="fst-italic fw-lighter my-2">(11/2023 - Present)</h5>
+
+            <p>Since November 2023, I've been working as a web developer at CTM, focusing on web programming, CMS implementation, PHP development, React, and WordPress. In this role, I've been responsible for creating and maintaining websites, ensuring functionality, and optimizing user experience. Additionally, I've utilized my skills in UI/UX design and Figma to create visually appealing interfaces that enhance user engagement. This position has allowed me to further refine my expertise in web development while contributing to the success of CTM's online presence.</p>
+           <h3 class="green mt-5">Freelance Developer</h3>
+
+            <h5 class="fst-italic fw-lighter my-2">(03/2023 - 11/2023)</h5>
 
             <p>Since March 2023, I've been working as a freelance developer, specializing in web app programming, UI/UX design, web design, online store design, and programming. I've also integrated technologies like Magento, Angular, React, and Vue into my projects. Recently, I've expanded my expertise to include product design and 3D printing, allowing me to offer comprehensive solutions that merge digital and physical realms. This additional dimension enables me to assist clients in conceptualizing and prototyping physical products with both functionality and aesthetics in mind. I've managed online stores proficiently, implementing content management systems for efficient website maintenance. This role has also equipped me with valuable project management skills, allowing me to independently oversee projects from start to finish while staying updated with the latest trends in web development and design.</p>
 
