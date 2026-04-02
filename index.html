@@ -25,9 +25,11 @@
       <div id="app" class="col h-100"></div>
     </div>
   </div>
-    <footer class="green">2023
-  </footer>
+    <footer class="green" id="copyright-year"></footer>
   </div>
+  <script>
+    document.getElementById('copyright-year').textContent = new Date().getFullYear();
+  </script>
   <script type="module" src="/src/main.js"></script>
 </body>
 
