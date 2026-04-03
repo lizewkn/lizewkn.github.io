@@ -81,7 +81,7 @@ export default {
         datasets: [
           {
             backgroundColor: ['#cccccc', '#00ff00'],
-            data: [60, 40],
+            data: [80, 20],
             borderColor: ['#191919', '#191919'],
             borderWidth: 1
           }]
