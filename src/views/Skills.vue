@@ -2,13 +2,11 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <p class="green">I am a Product Specialist at HKT (2024 - Present) with a strong background in product design and front-end development. I focus on building high-quality digital products with React, CMS platforms, and AI-enabled features. My studies in Information Technology (Multimedia) at Deakin University have provided me with a comprehensive understanding of coding and design.</p>
+        <p class="green">I am a Product Specialist at HKT (2024 - Present) with expertise in product strategy, digital experience design, and front-end engineering. I deliver high-quality digital products using React, enterprise CMS platforms, and AI-enabled features. My academic background in Information Technology (Multimedia) from Deakin University supports a strong foundation in both technical implementation and design thinking.</p>
 
-        <p class="green">In addition to product and interface design, I work on AWS cloud infrastructure including EC2, RDS, CloudFront, Cognito, and CodePipeline with CI/CD workflows. I also support AI initiatives with AWS Bedrock and SageMaker, helping teams prototype and deliver intelligent product capabilities in production-ready environments.</p>
+        <p class="green">In addition to product and interface design, I work hands-on with cloud delivery on AWS, including EC2, RDS, CloudFront, Cognito, and CodePipeline with CI/CD workflows. I also contribute to AI initiatives with AWS Bedrock and SageMaker, helping teams prototype and operationalize intelligent product capabilities in production environments.</p>
 
-        <p class="green">I have a strong understanding of the importance of user experience and usability, and believe that these are the
-        most important aspects of any development project. I am passionate about creating products that are both visually
-        appealing and easy to use, and strive to create products that are both functional and enjoyable.</p>
+        <p class="green">I have strong capabilities in Agile product delivery, Scrum facilitation, and distributed team leadership. I work closely with developers, designers, product owners, and QA teams to align scope, quality standards, and release outcomes.</p>
 
         <p class="green">I am excited to see what the future holds, and am eager to continue to learn and develop my skills and knowledge
         in the software development industry. I am confident that I can make a positive impact on the development
@@ -22,19 +20,21 @@
       <div class="col-auto order-1">
         <h2 class="green fw-light">#Design</h2>
 <ul class="green">
-<li>Graphic Design</li>
-<li>Web Design</li>
-<li>Logo Design</li>
-    <li>Product Desgin</li>
-    <li>PackageDesgin</li>
+<li>Product Design</li>
 <li>UI/UX Design</li>
+<li>Design Systems</li>
+<li>User Interface Design</li>
+<li>Web Design</li>
 <li>App UI Design</li>
+<li>Graphic Design</li>
+<li>Logo Design</li>
+<li>Packaging Design</li>
 <li>Animation</li>
 <li>Video Editing</li>
 <li>Adobe Creative Suite</li>
 <li>Figma</li>
-    <li>Swift UI</li>
-    <li>Blender</li>
+<li>SwiftUI</li>
+<li>Blender</li>
 </ul>
       </div>
       <div class="col-auto order-3">
@@ -43,17 +43,22 @@
 <li>HTML</li>
 <li>CSS, SCSS and Sass</li>
 <li>JavaScript</li>
-<li>jQuery</li>
-<li>Typescript</li>
-<li>Angular</li>
-<li>Vue</li>
+<li>TypeScript</li>
 <li>React</li>
+<li>Vue</li>
+<li>Angular</li>
+<li>jQuery</li>
 <li>Bootstrap</li>
-    <li>Git</li>
-    <li>WordPress</li>
-    <li>Springboot</li>
-<li>MYSQL</li>
-<li>Php</li>
+<li>CMS (WordPress and Enterprise CMS)</li>
+<li>AWS (EC2, RDS, CloudFront, Cognito)</li>
+<li>CI/CD (CodePipeline)</li>
+<li>AWS Bedrock and SageMaker</li>
+<li>Git and GitHub</li>
+<li>Spring Boot</li>
+<li>MySQL</li>
+<li>PHP</li>
+<li>Agile and Scrum</li>
+<li>Cross-functional Team Leadership</li>
 </ul>
       </div>
       </div>

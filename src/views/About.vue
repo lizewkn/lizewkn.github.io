@@ -11,14 +11,14 @@ import PortfolioItem from './Portfolio.vue'
 
             <h5 class="fst-italic fw-lighter my-2">(03/2024 - Present)</h5>
 
-            <p>Since mid-2024, I've been working as a Product Specialist at HKT, focusing on product design, React-based solutions, CMS implementation, and AI-enabled features. I collaborate across business and technical teams to shape product requirements, improve user experience, and deliver scalable digital products.
+            <p>Since March 2024, I have worked as a Product Specialist at HKT, leading product design, React-based solution delivery, CMS implementation, and AI-enabled feature development. I manage local and remote engineering teams using Scrum practices, and partner with design teams, product owners, and cross-functional stakeholders to deliver high-quality products. I collaborate across business and technical teams to define requirements, improve user experience, and deliver scalable digital solutions.
 <br>
-I also work on AWS infrastructure and cloud delivery, including EC2, RDS, CloudFront, Cognito, CodePipeline, and CI/CD workflows. In addition, I support AI initiatives with AWS Bedrock and SageMaker for prototyping and deployment of intelligent product capabilities.</p>
+I work hands-on with AWS cloud delivery and infrastructure, including EC2, RDS, CloudFront, Cognito, CodePipeline, and CI/CD workflows. In addition, I support AI initiatives using AWS Bedrock and SageMaker to prototype and deploy intelligent product capabilities.</p>
            <h3 class="green mt-5">Developer <span class="fs-5">Corporate Travel Management (CTM)</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(11/2023 - 03/2024)</h5>
 
-            <p>In the end of 2023, I worked as a Developer at CTM, focusing on CMS systems and ticketing systems. My responsibilities included implementing and maintaining core platform features, improving workflow efficiency, and supporting stable delivery for business-critical operations.</p>
+            <p>At CTM, I worked as a Developer focused on CMS and ticketing systems. My responsibilities included implementing and maintaining core platform features, improving workflow efficiency, and supporting stable delivery for business-critical operations.</p>
            <h3 class="green mt-5">Freelance Developer</h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2023 - 11/2023)</h5>
