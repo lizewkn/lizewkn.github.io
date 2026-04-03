@@ -10,12 +10,11 @@
     <div class="row mt-4">
       <div class="col">
         <div class="greetings">
-          <p class="green">I am a front-end developer and designer with extensive experience in the field.</p>
+          <p class="green">I am a Product Specialist at HKT (2024 - Present), focused on product design and modern web delivery.</p>
 
-          <p class="green">With years of experience under my belt, I have honed my skills in HTML, CSS, JavaScript, and
-            other front-end technologies. I am proficient in popular frameworks like Vue and Angular, as well as
-            libraries like jQuery and Bootstrap. Whether you are looking to build a responsive website or a dynamic web
-            application, I have the expertise to deliver high-quality solutions that meet your needs.</p>
+          <p class="green">My current work includes React development, CMS implementation, and AI-enabled product features.
+            I also manage cloud delivery on AWS, including EC2, RDS, CloudFront, Cognito, CodePipeline, and CI/CD,
+            while supporting AI use cases with AWS Bedrock and SageMaker to deliver scalable, practical solutions.</p>
 
           <p class="green">One of my strengths as a developer is my ability to work collaboratively with clients and
             stakeholders. I understand the importance of effective communication and strive to build strong relationships

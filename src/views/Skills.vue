@@ -2,16 +2,9 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <p class="green">I am an experienced coder and designer with a passion for creating high-quality products that provide users with
-        the best possible experience. My studies in Information Technology (Multimedia) at Deakin University have provided
-        me with a comprehensive understanding of coding and design. My coding skills include HTML, CSS, SCSS, SASS,
-        JavaScript, jQuery, Angular, Vue, Bootstrap, and Swift UI. My design skills include web design, EDM design, UI/UX
-        design, app UI design, and tools such as Adobe, Github, WordPress, MySQL, and Firebase.</p>
+        <p class="green">I am a Product Specialist at HKT (2024 - Present) with a strong background in product design and front-end development. I focus on building high-quality digital products with React, CMS platforms, and AI-enabled features. My studies in Information Technology (Multimedia) at Deakin University have provided me with a comprehensive understanding of coding and design.</p>
 
-        <p class="green">My vision is to become an all-round developer who can use their skills and knowledge to create products that are
-        both functional and user-friendly. I am constantly striving to stay up to date with the latest trends and
-        technologies in the software development industry, and am always looking for new ways to improve my skills and
-        knowledge. I am confident that I can make a positive contribution to the development community.</p>
+        <p class="green">In addition to product and interface design, I work on AWS cloud infrastructure including EC2, RDS, CloudFront, Cognito, and CodePipeline with CI/CD workflows. I also support AI initiatives with AWS Bedrock and SageMaker, helping teams prototype and deliver intelligent product capabilities in production-ready environments.</p>
 
         <p class="green">I have a strong understanding of the importance of user experience and usability, and believe that these are the
         most important aspects of any development project. I am passionate about creating products that are both visually

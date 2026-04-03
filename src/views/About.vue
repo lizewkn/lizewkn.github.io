@@ -7,11 +7,18 @@ import PortfolioItem from './Portfolio.vue'
       <div class="row">
         <div class="col">
 <p class="green mb-5">I'm a Deakin University graduate in Information Technology (Multimedia) with 10+ years of experience in programming and design. I'm passionate about innovation and staying up-to-date with the latest trends and technologies, and am a strong communicator who enjoys working collaboratively with clients and stakeholders.</p>
-           <h3 class="green">Web Developer, Corporate Travel Management</h3>
+           <h3 class="green">Product Specialist <span class="fs-5">HKT</span></h3>
 
-            <h5 class="fst-italic fw-lighter my-2">(11/2023 - Present)</h5>
+            <h5 class="fst-italic fw-lighter my-2">(03/2024 - Present)</h5>
 
-            <p>Since November 2023, I've been working as a web developer at CTM, focusing on web programming, CMS implementation, PHP development, React, and WordPress. In this role, I've been responsible for creating and maintaining websites, ensuring functionality, and optimizing user experience. Additionally, I've utilized my skills in UI/UX design and Figma to create visually appealing interfaces that enhance user engagement. This position has allowed me to further refine my expertise in web development while contributing to the success of CTM's online presence.</p>
+            <p>Since mid-2024, I've been working as a Product Specialist at HKT, focusing on product design, React-based solutions, CMS implementation, and AI-enabled features. I collaborate across business and technical teams to shape product requirements, improve user experience, and deliver scalable digital products.
+<br>
+I also work on AWS infrastructure and cloud delivery, including EC2, RDS, CloudFront, Cognito, CodePipeline, and CI/CD workflows. In addition, I support AI initiatives with AWS Bedrock and SageMaker for prototyping and deployment of intelligent product capabilities.</p>
+           <h3 class="green mt-5">Developer <span class="fs-5">Corporate Travel Management (CTM)</span></h3>
+
+            <h5 class="fst-italic fw-lighter my-2">(11/2023 - 03/2024)</h5>
+
+            <p>In the end of 2023, I worked as a Developer at CTM, focusing on CMS systems and ticketing systems. My responsibilities included implementing and maintaining core platform features, improving workflow efficiency, and supporting stable delivery for business-critical operations.</p>
            <h3 class="green mt-5">Freelance Developer</h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2023 - 11/2023)</h5>
