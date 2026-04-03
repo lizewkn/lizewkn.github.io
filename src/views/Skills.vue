@@ -18,7 +18,7 @@
           <Pie :data="data" :options="options" />
         </div>
       <div class="col-auto order-1">
-        <h2 class="green fw-light">#Design</h2>
+        <h2 class="green fw-light">#Non-technical</h2>
 <ul class="green">
 <li>Product Design</li>
 <li>UI/UX Design</li>
@@ -35,10 +35,12 @@
 <li>Figma</li>
 <li>SwiftUI</li>
 <li>Blender</li>
+<li>Agile and Scrum</li>
+<li>Cross-functional Team Leadership</li>
 </ul>
       </div>
       <div class="col-auto order-3">
-        <h2 class="fw-light">#Coding</h2>
+        <h2 class="fw-light">#Technical</h2>
 <ul>
 <li>HTML</li>
 <li>CSS, SCSS and Sass</li>
@@ -55,10 +57,11 @@
 <li>AWS Bedrock and SageMaker</li>
 <li>Git and GitHub</li>
 <li>Spring Boot</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>MongoDB</li>
 <li>MySQL</li>
 <li>PHP</li>
-<li>Agile and Scrum</li>
-<li>Cross-functional Team Leadership</li>
 </ul>
       </div>
       </div>
