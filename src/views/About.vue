@@ -6,88 +6,49 @@ import PortfolioItem from './Portfolio.vue'
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-<p class="green mb-5">I'm a Deakin University graduate in Information Technology (Multimedia) with 10+ years of experience in programming and design. I'm passionate about innovation and staying up-to-date with the latest trends and technologies, and am a strong communicator who enjoys working collaboratively with clients and stakeholders.</p>
-           <h3 class="green">Product Specialist <span class="fs-5">HKT</span></h3>
+<p class="green mb-5">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions. Deakin University graduate in Information Technology.</p>
+
+           <h3 class="green">Senior Software Engineer <span class="fs-5">HKT</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2024 - Present)</h5>
 
-            <p>Since March 2024, I have worked as a Product Specialist at HKT, leading product design, React-based solution delivery, CMS implementation, and AI-enabled feature development. I manage local and remote engineering teams using Scrum practices, and partner with design teams, product owners, and cross-functional stakeholders to deliver high-quality products. I collaborate across business and technical teams to define requirements, improve user experience, and deliver scalable digital solutions.
+            <p>Frontend Architecture & CMS: Architected and delivered high-performance React.js web applications and enterprise CMS solutions for key commercial projects.
 <br>
-I work hands-on with AWS cloud delivery and infrastructure, including EC2, RDS, CloudFront, Cognito, CodePipeline, and CI/CD workflows. In addition, I support AI initiatives using AWS Bedrock and SageMaker to prototype and deploy intelligent product capabilities.</p>
-           <h3 class="green mt-5">Developer <span class="fs-5">Corporate Travel Management (CTM)</span></h3>
+Cloud & CI/CD Optimization: Managed full-stack AWS cloud infrastructure (EC2, RDS, CloudFront, Cognito) and built automated CI/CD pipelines via CodePipeline to ensure high system availability.
+<br>
+GenAI Feature Deployment: Integrated Generative AI capabilities into core products using AWS Bedrock and Amazon SageMaker to optimize automated user workflows.
+<br>
+Agile Leadership: Led local and offshore Scrum engineering teams, partnering with Product Owners and UI/UX designers to meet project milestones on schedule.
+<br>
+Vendor & Technical Planning: Conducted system analysis, architecture design, and third-party vendor evaluations to align delivery with corporate security and SLA standards.</p>
+
+           <h3 class="green mt-5">Developer <span class="fs-5">Corporate Travel Management (CTM) Group</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(11/2023 - 03/2024)</h5>
 
-            <p>At CTM, I worked as a Developer focused on CMS and ticketing systems. My responsibilities included implementing and maintaining core platform features, improving workflow efficiency, and supporting stable delivery for business-critical operations.</p>
-           <h3 class="green mt-5">Freelance Developer</h3>
+            <p>Executed user interface design and front-end development strategies to optimize performance and usability across corporate travel applications. Collaborated on software system analysis to map out engineering requirements and streamline data integration pipelines.</p>
 
-            <h5 class="fst-italic fw-lighter my-2">(03/2023 - 11/2023)</h5>
-
-            <p>Since March 2023, I've been working as a freelance developer, specializing in web app programming, UI/UX design, web design, online store design, and programming. I've also integrated technologies like Magento, Angular, React, and Vue into my projects. Recently, I've expanded my expertise to include product design and 3D printing, allowing me to offer comprehensive solutions that merge digital and physical realms. This additional dimension enables me to assist clients in conceptualizing and prototyping physical products with both functionality and aesthetics in mind. I've managed online stores proficiently, implementing content management systems for efficient website maintenance. This role has also equipped me with valuable project management skills, allowing me to independently oversee projects from start to finish while staying updated with the latest trends in web development and design.</p>
-
-<h3 class="green mt-5">Senior Front-end Developer <span class="fs-5">Flamma Works Design Limited</span></h3>
+<h3 class="green mt-5">Senior Frontend Developer <span class="fs-5">Flamma Works</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2018 - 03/2023)</h5>
 
-            <p>As a Senior Front-end Developer at Flamma Works Design Limited since March 2018, my primary responsibility has been the front-end programming of key projects, including the CitiBank project. I have been involved in various aspects of this project, such as the development of electronic direct mailers (edms), forms, standalone pages, animations, videos, and campaign sites.
+            <p>Primary responsibility was the front-end programming of key projects, including the CitiBank project. Developed electronic direct mailers (edms), forms, standalone pages, animations, videos, and campaign sites.
 <br>
-To complete these tasks, I have utilized a range of tools and technologies, including Adobe Creative Suite, HTML, CSS, PHP, JavaScript, GitHub, Angular, Vue, jQuery, TypeScript, and Bootstrap. These tools have allowed me to effectively design and develop visually appealing and user-friendly websites and apps that meet the client's requirements.
-<br>
-In addition to my technical responsibilities, I have also worked closely with vendors to ensure timely and efficient project delivery. My effective communication and collaboration skills have been essential in ensuring that projects are completed on time and within budget.
-<br>
-Overall, my experience as a Senior Front-end Developer at Flamma Works Design Limited has provided me with a wealth of experience and knowledge in web design and development. My technical expertise, combined with my strong communication and collaboration skills, has allowed me to successfully contribute to various web-based projects and meet the high standards expected by clients.</p>
+Utilized a range of tools and technologies: Adobe Creative Suite, HTML, CSS, PHP, JavaScript, GitHub, Angular, Vue, jQuery, TypeScript, and Bootstrap. Worked closely with vendors to ensure timely and efficient project delivery.</p>
 
-            <h3 class="green mt-5">Web Designer <span class="fs-5">Lazybug Studio</span></h3>
+            <h3 class="green mt-5">Web Designer <span class="fs-5">LazyBug Studio Limited</span></h3>
 
-              <h5 class="fst-italic fw-lighter my-2">(01/2016 - 12/2017)</h5>
+              <h5 class="fst-italic fw-lighter my-2">(02/2016 - 12/2017)</h5>
 
-              <p>As a Web Designer at Lazybug Studio, my responsibilities included designing and developing various web and app-based projects. I was involved in several aspects of each project, such as UI/UX design, interactive website development, designing the UI, creating graphics and logos, and front-end programming.
+              <p>Designed and developed various web and app-based projects. Involved in UI/UX design, interactive website development, creating graphics and logos, and front-end programming.
 <br>
-To complete my tasks, I utilized a range of tools and technologies, including Adobe Creative Suite, HTML, CSS, PHP, JavaScript, jQuery, Wordpress, Bootstrap, and Figma. Notably, I worked on key projects such as the design and development of the company's website, lazybugstudio.com, and the sagaming website.
-<br>
-As a Web Designer, I also had the responsibility of presenting design ideas and concepts to clients, which necessitated excellent communication skills and the ability to understand the client's specific needs and preferences. I then applied my expertise in design and development to create unique and engaging websites and apps that effectively conveyed the client's message and brand.
-<br>
-My experience at Lazybug Studio enabled me to develop a versatile skill set in web design and development, as well as effective communication and collaboration skills. I learned how to work in a team environment and adapt quickly to changing project requirements. These skills have been invaluable in my career as a web designer and have allowed me to successfully contribute to various web and app-based projects.</p>
+Utilized tools and technologies including Adobe Creative Suite, HTML, CSS, PHP, JavaScript, jQuery, WordPress, Bootstrap, and Figma. Worked on key projects such as lazybugstudio.com and the SA Gaming website.</p>
 
-            <h3 class="green mt-5">Web/App Designer <span class="fs-5">ON.CC</span></h3>
+            <h3 class="green mt-5">Web Designer <span class="fs-5">on.cc</span></h3>
 
-              <h5 class="fst-italic fw-lighter my-2">(08/2015 - 12/2015)</h5>
+              <h5 class="fst-italic fw-lighter my-2">(07/2015 - 12/2015)</h5>
 
-              <p>In my role as a Web/App Designer at ON.CC, I was responsible for designing and developing a diverse range of web and app-based projects. This included designing the user interface (UI), graphics, and logos for each project.
-<br>
-During my tenure at ON.CC, I worked on several significant projects that enabled me to develop and showcase my skills in web design and development. One such project involved designing the ON.CC iPad App and website. To accomplish this, I utilized a range of tools and technologies such as Adobe Creative Suite, HTML, CSS, JavaScript, PHP, jQuery, Wordpress, Bootstrap, and MySQL to create a visually appealing and user-friendly design for both the app and website.
-<br>
-Another notable project I worked on was the design and development of the Hong Kong Jockey Club campaign websites. These websites were designed to be WCAG recognized, necessitating a meticulous approach to design and development.
-<br>
-In addition to my technical responsibilities, I also presented design ideas and concepts to clients. This required me to effectively communicate with clients to understand their specific needs and preferences. I then applied my design and development expertise to create unique and engaging websites and apps that conveyed the client's message and brand effectively.
-<br>
-Overall, my experience as a Web/App Designer at ON.CC allowed me to develop a versatile skill set that includes technical expertise in web and app design and development, as well as effective communication and collaboration skills. These skills will undoubtedly serve me well in any future roles I undertake in the field of web design and development.</p>
-
-            <h3 class="green mt-5">Web Designer/Developer <span class="fs-5">Intimex Business Solutions</span></h3>
-
-              <h5 class="fst-italic fw-lighter my-2">(03/2014 - 08/2015)</h5>
-
-            <p>
-              As a Web Designer/Developer at Intimex Business Solutions, my role encompassed designing and developing a variety of websites, as well as undertaking graphics and logo design projects. A crucial aspect of my role was front-end programming for the websites and online stores that I worked on.
-<br>
-My responsibility extended to ensuring that the websites of government-funded organizations were WCAG compatible. This required me to possess an in-depth understanding of accessibility guidelines and to have a meticulous approach to web development. To accomplish this, I used a range of tools and technologies such as Adobe Creative Suite, HTML, CSS, .NET, C#, PHP, JavaScript, jQuery, Wordpress, Bootstrap, and MySQL to create visually appealing and user-friendly designs that adhered to the strict accessibility requirements of these clients.
-<br>
-Aside from my technical responsibilities, I also had to present design ideas and concepts to clients, necessitating excellent communication skills and the ability to comprehend their specific needs and preferences. I then utilized my expertise in design and development to create unique and captivating websites that effectively conveyed the client's message and brand.
-<br>
-In summary, my experience as a Web Designer/Developer at Intimex Business Solutions enabled me to develop a robust set of skills in both design and development, along with a deep understanding of accessibility guidelines and how to execute successful projects for government-funded organizations.
-            </p>
-
-            <h3 class="green mt-5">Web Programmer <span class="fs-5">Springtime Design</span></h3>
-
-              <h5 class="fst-italic fw-lighter my-2">(05/2013 - 12/2013)</h5>
-
-          <p>As a Web Programmer at Springtime Design, I was responsible for various front-end programming tasks related to web development projects. My role involved working on different aspects of each project to ensure that the websites were visually appealing and user-friendly.
-<br>
-One of my primary responsibilities was developing the user interface (UI) for these websites. To achieve this, I utilized a range of tools such as Adobe Creative Suite, HTML, CSS, .NET, and C#. Effective communication with team members was crucial to ensure that the design and functionality of each website met the client's expectations.
-<br>
-Apart from UI development, I also undertook other front-end programming tasks, including optimizing websites for search engines, ensuring accessibility for users with disabilities, and ensuring compatibility with various devices and browsers.
-<br>
-My experience as a Web Programmer at Springtime Design helped me develop a versatile skill set in front-end programming, as well as a deep understanding of creating engaging and effective user interfaces for websites.</p>
+              <p>Responsible for designing and developing a diverse range of web and app-based projects, including designing the user interface (UI), graphics, and logos. Worked on the ON.CC iPad App and website using Adobe Creative Suite, HTML, CSS, JavaScript, PHP, jQuery, WordPress, Bootstrap, and MySQL.</p>
       </div>
     </div>
     <!-- <div class="row mt-4">

@@ -2,15 +2,11 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <p class="green">I am a Product Specialist at HKT (2024 - Present) with expertise in product strategy, digital experience design, and front-end engineering. I deliver high-quality digital products using React, enterprise CMS platforms, and AI-enabled features. My academic background in Information Technology (Multimedia) from Deakin University supports a strong foundation in both technical implementation and design thinking.</p>
+        <p class="green">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions.</p>
 
-        <p class="green">In addition to product and interface design, I work hands-on with cloud delivery on AWS, including EC2, RDS, CloudFront, Cognito, and CodePipeline with CI/CD workflows. I also contribute to AI initiatives with AWS Bedrock and SageMaker, helping teams prototype and operationalize intelligent product capabilities in production environments.</p>
+        <p class="green">Core Competencies: Frontend & Architecture — React.js, Next.js, Enterprise CMS, System Architecture, UI/UX Design. Cloud & DevOps (AWS) — EC2, RDS, CloudFront, Cognito, CodePipeline, CI/CD, Serverless. Enterprise AI — AWS Bedrock, Amazon SageMaker, LLM API Integration, Generative AI Workflows.</p>
 
-        <p class="green">I have strong capabilities in Agile product delivery, Scrum facilitation, and distributed team leadership. I work closely with developers, designers, product owners, and QA teams to align scope, quality standards, and release outcomes.</p>
-
-        <p class="green">I am excited to see what the future holds, and am eager to continue to learn and develop my skills and knowledge
-        in the software development industry. I am confident that I can make a positive impact on the development
-        community, and am looking forward to the opportunities that lie ahead.</p>
+        <p class="green">Management: Vendor/RFP Evaluation, Agile/Scrum Leadership, Strategic Partner Oversight, Project Management, Systems Planning, Software System Analysis.</p>
       </div>
       </div>
       <div class="row justify-content-center mt-5">
@@ -20,46 +16,44 @@
       <div class="col-auto order-1">
         <h2 class="green fw-light">#Non-technical</h2>
 <ul class="green">
-<li>Product Design</li>
 <li>UI/UX Design</li>
 <li>Design Systems</li>
 <li>User Interface Design</li>
-<li>Web Design</li>
-<li>App UI Design</li>
+<li>Product Design</li>
 <li>Graphic Design</li>
-<li>Logo Design</li>
-<li>Packaging Design</li>
-<li>Animation</li>
-<li>Video Editing</li>
-<li>Adobe Creative Suite</li>
-<li>Figma</li>
-<li>SwiftUI</li>
-<li>Blender</li>
 <li>Agile and Scrum</li>
-<li>Cross-functional Team Leadership</li>
+<li>Project Management</li>
+<li>Systems Planning</li>
+<li>Software System Analysis</li>
+<li>Vendor Evaluation</li>
+<li>Strategic Partner Oversight</li>
+<li>Figma</li>
+<li>Adobe Creative Suite</li>
 </ul>
       </div>
       <div class="col-auto order-3">
         <h2 class="fw-light">#Technical</h2>
 <ul>
-<li>HTML</li>
-<li>CSS, SCSS and Sass</li>
-<li>JavaScript</li>
-<li>TypeScript</li>
-<li>React</li>
+<li>React.js</li>
+<li>Next.js</li>
 <li>Vue</li>
 <li>Angular</li>
-<li>jQuery</li>
+<li>TypeScript</li>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>CSS, SCSS and Sass</li>
 <li>Bootstrap</li>
+<li>jQuery</li>
 <li>CMS (WordPress and Enterprise CMS)</li>
-<li>AWS (EC2, RDS, CloudFront, Cognito)</li>
-<li>CI/CD (CodePipeline)</li>
-<li>AWS Bedrock and SageMaker</li>
+<li>AWS (EC2, RDS, CloudFront, Cognito, CodePipeline)</li>
+<li>CI/CD</li>
+<li>AWS Bedrock</li>
+<li>Amazon SageMaker</li>
+<li>Generative AI</li>
+<li>LLM API Integration</li>
 <li>Git and GitHub</li>
-<li>Spring Boot</li>
 <li>Node.js</li>
 <li>Express.js</li>
-<li>MongoDB</li>
 <li>MySQL</li>
 <li>PHP</li>
 </ul>
