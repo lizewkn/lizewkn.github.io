@@ -4,7 +4,7 @@
       <div class="col">
         <p class="green">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions.</p>
 
-        <p class="green">Core Competencies: Frontend & Architecture — React.js, Next.js, Enterprise CMS, System Architecture, UI/UX Design. Cloud & DevOps (AWS) — EC2, RDS, CloudFront, Cognito, CodePipeline, CI/CD, Serverless. Enterprise AI — AWS Bedrock, Amazon SageMaker, LLM API Integration, Generative AI Workflows.</p>
+        <p class="green">Core Competencies: Frontend & Architecture — React.js, Next.js, Enterprise CMS, System Architecture, UI/UX Design. Cloud & DevOps (AWS) — EC2, RDS, CloudFront, Cognito, CodePipeline, CI/CD, Serverless. Enterprise AI — AWS Bedrock, Amazon SageMaker, LLM API Integration, Generative AI Workflows, Python. Management — Vendor/RFP Evaluation, Agile/Scrum Leadership, Strategic Partner Oversight, Project Management, Systems Planning, Software System Analysis.</p>
 
         <p class="green">Management: Vendor/RFP Evaluation, Agile/Scrum Leadership, Strategic Partner Oversight, Project Management, Systems Planning, Software System Analysis.</p>
       </div>
@@ -56,6 +56,7 @@
 <li>Express.js</li>
 <li>MySQL</li>
 <li>PHP</li>
+<li>Python</li>
 </ul>
       </div>
       </div>

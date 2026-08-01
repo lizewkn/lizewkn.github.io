@@ -6,7 +6,7 @@ import PortfolioItem from './Portfolio.vue'
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-<p class="green mb-5">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions. Deakin University graduate in Information Technology.</p>
+<p class="green mb-5">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions. Strong Python backend development skills for data pipeline automation and AI workflow integration. Deakin University graduate in Information Technology.</p>
 
            <h3 class="green">Senior Software Engineer <span class="fs-5">HKT</span></h3>
 
@@ -16,7 +16,7 @@ import PortfolioItem from './Portfolio.vue'
 <br>
 Cloud & CI/CD Optimization: Managed full-stack AWS cloud infrastructure (EC2, RDS, CloudFront, Cognito) and built automated CI/CD pipelines via CodePipeline to ensure high system availability.
 <br>
-GenAI Feature Deployment: Integrated Generative AI capabilities into core products using AWS Bedrock and Amazon SageMaker to optimize automated user workflows.
+GenAI Feature Deployment: Integrated Generative AI capabilities into core products using AWS Bedrock, Amazon SageMaker, and Python-based data pipelines to optimize automated user workflows.
 <br>
 Agile Leadership: Led local and offshore Scrum engineering teams, partnering with Product Owners and UI/UX designers to meet project milestones on schedule.
 <br>
