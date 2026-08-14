@@ -23,10 +23,10 @@
           <a href="https://wa.me/0085254813940" target="_blank" class="btn linkc"><i class="bi bi-whatsapp fs-1"></i><br>54813940</a>
       </div>
         <div class="col text-center mt-2">
-          <a href="KennyWongCV.pdf" target="_blank" class="btn linkc"><i class="bi bi-file-earmark-text fs-1"></i><br>CV.pdf</a>
+          <!-- <a href="KennyWongCV.pdf" target="_blank" class="btn linkc"><i class="bi bi-file-earmark-text fs-1"></i><br>CV.pdf</a> -->
       </div>
         <div class="col text-center mt-2">
-          <a href="KennyWongResume.pdf" target="_blank" class="btn linkc"><i class="bi bi-file-earmark-text fs-1"></i><br>Resume.pdf</a>
+          <!-- <a href="KennyWongResume.pdf" target="_blank" class="btn linkc"><i class="bi bi-file-earmark-text fs-1"></i><br>Resume.pdf</a> -->
       </div>
       </div>
     </div>
