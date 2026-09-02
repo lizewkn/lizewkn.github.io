@@ -6,21 +6,19 @@ import PortfolioItem from './Portfolio.vue'
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-<p class="green mb-5">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations. Proven track record in leading cross-functional engineering teams, managing AWS serverless architectures, and delivering scalable enterprise solutions. Strong Python backend development skills for data pipeline automation and AI workflow integration. Deakin University graduate in Information Technology.</p>
+<p class="green mb-5">Assistant Product Manager with 8+ years building production systems at the intersection of frontend engineering and cloud AI. I combine hands-on frontend experience with back-end automation and GenAI integration to deliver measurable product outcomes.</p>
 
-           <h3 class="green">Senior Software Engineer <span class="fs-5">HKT</span></h3>
+           <h3 class="green">Assistant Product Manager <span class="fs-5">HKT</span></h3>
 
             <h5 class="fst-italic fw-lighter my-2">(03/2024 - Present)</h5>
 
-            <p>Frontend Architecture & CMS: Architected and delivered high-performance React.js web applications and enterprise CMS solutions for key commercial projects.
+            <p>At HKT, I architect high-performance React applications, lead offshore Scrum teams, and integrate GenAI capabilities into enterprise products.
 <br>
-Cloud & CI/CD Optimization: Managed full-stack AWS cloud infrastructure (EC2, RDS, CloudFront, Cognito) and built automated CI/CD pipelines via CodePipeline to ensure high system availability.
+Before HKT, I shipped frontend at scale for CitiBank through Flamma Works and built design-to-code workflows for digital agencies across Hong Kong.
 <br>
-GenAI Feature Deployment: Integrated Generative AI capabilities into core products using AWS Bedrock, Amazon SageMaker, and Python-based data pipelines to optimize automated user workflows.
+Technical focus: Python, TypeScript, AWS, and CI/CD; experience across cloud infrastructure, automated deployment pipelines, and AI workflow integration.
 <br>
-Agile Leadership: Led local and offshore Scrum engineering teams, partnering with Product Owners and UI/UX designers to meet project milestones on schedule.
-<br>
-Vendor & Technical Planning: Conducted system analysis, architecture design, and third-party vendor evaluations to align delivery with corporate security and SLA standards.</p>
+I thrive where technical depth and cross-functional leadership intersect — optimising CMS deployment pipelines, presenting architecture decisions to stakeholders, and prioritising outcomes over activity.</p>
 
            <h3 class="green mt-5">Developer <span class="fs-5">Corporate Travel Management (CTM) Group</span></h3>
 

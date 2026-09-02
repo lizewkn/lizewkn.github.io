@@ -4,17 +4,17 @@
     <div class="row">
       <div class="col">
         <h1>Kenny Wong</h1>
-        <h5 class="mt-2">Senior Software Engineer</h5>
+        <h5 class="mt-2">Assistant Product Manager</h5>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col">
         <div class="greetings">
-          <p class="green">Senior Software Engineer with 8+ years of experience specializing in high-performance React.js frontends, AWS cloud infrastructure, and enterprise GenAI integrations.</p>
+          <p class="green">Assistant Product Manager with 8+ years building production systems at the intersection of frontend engineering and cloud AI.</p>
 
-          <p class="green">At HKT, I architect and deliver high-performance React.js applications while leading local and offshore Scrum teams. I integrate Generative AI using AWS Bedrock and SageMaker to optimize automated workflows, and manage full-stack AWS infrastructure with automated CI/CD pipelines.</p>
+          <p class="green">At HKT, I architect high-performance React applications, lead offshore Scrum teams, and integrate GenAI capabilities into enterprise products. Before HKT, I shipped frontend at scale for CitiBank through Flamma Works and built design-to-code workflows for digital agencies across Hong Kong.</p>
 
-          <p class="green">Check out my portfolio to see my best work, or head to Skills to see my full technical toolkit.</p>
+          <p class="green">I thrive in environments that demand both technical depth — Python, TypeScript, AWS, CI/CD — and cross-functional leadership. Whether optimising a CMS deployment pipeline or presenting architecture decisions to stakeholders, I care about outcomes over activity.</p>
         </div>
       </div>
     </div>
